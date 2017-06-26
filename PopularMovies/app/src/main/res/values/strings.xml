@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pop Movies</string>
+    <string name="load_movies_error_message">Sorry! Could not load movies!</string>
+        <string name="mark_as_favorite_btn">Mark as \nfavorite</string>
+    <string name="sort_by">Sort by</string>
+    <string name="popularity">Popularity</string>
+</resources>

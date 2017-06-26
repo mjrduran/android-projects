@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/merged/debug/layout/news_articles.xml",
+        "source": "/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/src/main/res/layout/news_articles.xml"
+    },
+    {
+        "merged": "/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/merged/debug/layout/article_view.xml",
+        "source": "/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/src/main/res/layout/article_view.xml"
+    }
+]

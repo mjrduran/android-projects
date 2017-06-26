@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Tue Feb 07 21:35:47 BRST 2017
+2.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+5.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+5.set=ANDROID_RESOURCE
+3.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+count=6
+0.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/layout/article_view.xml
+5.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+4.set=ANDROID_RESOURCE
+1.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/layout-large-v4/news_articles.xml
+0.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+3.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_
+4.file=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/res/resources-debug.ap_/res/layout/news_articles.xml
+0.set=ANDROID_RESOURCE

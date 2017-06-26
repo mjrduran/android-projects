@@ -1,0 +1,7 @@
+#Tue Feb 07 21:35:56 BRST 2017
+base.0=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6caae955e8b0924aed355d6ed535ac662fb49f8
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29d06d0de222250723641b8024a521d73568214c/classes.dex
+base.1=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29d06d0de222250723641b8024a521d73568214c
+file.0=/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6caae955e8b0924aed355d6ed535ac662fb49f8/classes.dex

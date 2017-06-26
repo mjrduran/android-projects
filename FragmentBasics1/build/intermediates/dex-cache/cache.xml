@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="622d908dd0e9456a36baa6db4572ef39bf126b92">
+        <dex dex="/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d6caae955e8b0924aed355d6ed535ac662fb49f8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f97b6677595a8db2e1eb8256d0204fa8df240225">
+        <dex dex="/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_29d06d0de222250723641b8024a521d73568214c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/moacir/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/moacir/AndroidStudioProjects/android-projects/FragmentBasics1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_a8eb4a2c4f9b8f16e0a50e0f0c24aa1a980db374/classes.dex" />
+    </item>
+
+</items>
